@@ -8,10 +8,9 @@ public class Main {
                 Filme Top Gun
                 Filme de ação com grande astro dos anos 80.
                 """;
-        int anoDeLancamento = 2022;
-        System.out.println("Ano de lançamento: " + anoDeLancamento);
-        boolean incluidoNoPlano = true;
-        double notaDoFilme = 8.1;
+
+        System.out.println("Ano de lançamento: ");
+
 
         // Média calculada pelas 3 notas.
         double media = (9.8 + 6.3 + 8.0) /3;

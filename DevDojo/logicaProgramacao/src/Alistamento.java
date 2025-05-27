@@ -16,7 +16,6 @@ public class Alistamento {
             System.out.println("Alistamento opcional. Deseja se alistar ?");
         } else {
             System.out.println("Opção inválida. Por gentileza, use 'M' ou 'F'.");
-            return;
         }
 
     }

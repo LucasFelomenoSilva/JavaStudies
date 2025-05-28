@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class TrocaDeValores {
     public static void main(String[] args) {
         String x = "A";

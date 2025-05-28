@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class NumeroIfElse {
     public static void main(String[] args){
         int number = 121212213;

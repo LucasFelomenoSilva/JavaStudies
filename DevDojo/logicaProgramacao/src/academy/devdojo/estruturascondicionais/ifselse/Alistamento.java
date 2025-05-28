@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 import java.util.Scanner;
 
 public class Alistamento {
@@ -9,11 +11,11 @@ public class Alistamento {
         int idade = input.nextInt();
 
         if (sexo.equals("M") && idade >= 18){
-            System.out.println("Alistamento obrigatório.");
+            System.out.println("academy.devdojo.estruturascondicionais.ifselse.Alistamento obrigatório.");
         } else if ((sexo.equals("M") || sexo.equals("F")) && idade < 18) {
-            System.out.println("Alistamento não permitido");
+            System.out.println("academy.devdojo.estruturascondicionais.ifselse.Alistamento não permitido");
         } else if (sexo.equals("F") && idade >= 18){
-            System.out.println("Alistamento opcional. Deseja se alistar ?");
+            System.out.println("academy.devdojo.estruturascondicionais.ifselse.Alistamento opcional. Deseja se alistar ?");
         } else {
             System.out.println("Opção inválida. Por gentileza, use 'M' ou 'F'.");
         }

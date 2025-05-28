@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais.ifselse;
+
 public class Ir {
     public static void main(String[] args) {
         double salary = 13850;

@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class CalculatorImpost {
     public static void main(String[] args) {
         float salary = 2500.00F;

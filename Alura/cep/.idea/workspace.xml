@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22e43c1d-4bd0-49c3-8229-75768dadde9b" name="Changes" comment="add api">
-      <change afterPath="$PROJECT_DIR$/../../.idea/JavaStudies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsultaCep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeradorDeArquivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minhasmusicas/minhasmusicas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../screenmatch/screenmatch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../screenmatch/src/br/com/alura/screenmatch/excecao/ErroDeConversaoDeAnoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Udemy/Udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/../screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +76,15 @@
       <option name="presentableId" value="Default" />
       <updated>1747922623161</updated>
     </task>
+    <task id="LOCAL-00001" summary="add api">
+      <option name="closed" value="true" />
+      <created>1747923190492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747923190492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
